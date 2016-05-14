@@ -1,0 +1,6 @@
+[package]
+name = "karplus"
+version = "0.1.0"
+authors = ["Adriano Orioli <orioli.adriano@gmail.com>"]
+
+[dependencies]
