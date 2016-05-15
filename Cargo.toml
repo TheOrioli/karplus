@@ -2,6 +2,11 @@
 name = "karplus"
 version = "0.1.0"
 authors = ["Adriano Orioli <orioli.adriano@gmail.com>"]
+description = "Karplus-Strong algorithm implementation."
+repository = "https://github.com/Aorioli/karplus"
+readme = "README.md"
+keywords = ["karplus", "sound", "synthesis"]
+license = "MIT"
 
 [dependencies]
 rand = "0.3.14"
